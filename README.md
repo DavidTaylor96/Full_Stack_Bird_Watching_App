@@ -30,7 +30,10 @@ npm run server:dev
 ### Client
 
 ```
-cd ../client
 npm install
+```
+
+```
 npm run serve
 ```
+
