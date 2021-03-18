@@ -11,7 +11,6 @@ These instructions should get you a copy of the project up and running on your l
 Install server dependencies:
 
 ```
-cd server
 npm install
 ```
 
